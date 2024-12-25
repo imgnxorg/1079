@@ -1,0 +1,25 @@
+{
+  "name": "highlevel-contact-map",
+  "version": "1.0.0",
+  "description": "A plugin for HighLevel CRM that displays a map of the prospect's home.",
+  "main": "embed.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imgnxorg/1079.git"
+  },
+  "keywords": [
+    "highlevel",
+    "google",
+    "maps",
+    "crm"
+  ],
+  "author": "Donald Wayne Moore Jr.",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/imgnxorg/1079/issues"
+  },
+  "homepage": "https://github.com/imgnxorg/1079#readme"
+}
