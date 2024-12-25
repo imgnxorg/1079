@@ -1,6 +1,6 @@
 {
   "name": "highlevel-contact-map",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A plugin for HighLevel CRM that displays a map of the prospect's home.",
   "main": "embed.js",
   "scripts": {
